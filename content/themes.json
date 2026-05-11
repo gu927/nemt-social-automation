@@ -1,0 +1,45 @@
+{
+  "monday": {
+    "theme": "Healthcare transportation tip",
+    "examples": [
+      "Always confirm patient mobility needs before scheduling.",
+      "Hydration matters during transport – especially in Bakersfield heat."
+    ]
+  },
+  "tuesday": {
+    "theme": "Motivational/professional quote",
+    "examples": [
+      "Excellence in care starts with reliable transportation."
+    ]
+  },
+  "wednesday": {
+    "theme": "Wheelchair safety fact",
+    "examples": [
+      "Proper wheelchair securement reduces risk by over 90%."
+    ]
+  },
+  "thursday": {
+    "theme": "Community/facility appreciation",
+    "examples": [
+      "Shoutout to Kern Medical for their amazing staff!"
+    ]
+  },
+  "friday": {
+    "theme": "Behind the scenes / van photo",
+    "examples": [
+      "Our clean, equipped vans ready for the day."
+    ]
+  },
+  "saturday": {
+    "theme": "Patient care/service message",
+    "examples": [
+      "Treating every passenger like family."
+    ]
+  },
+  "sunday": {
+    "theme": "Company mission/family business post",
+    "examples": [
+      "SpeedCare: Family-owned, community-driven."
+    ]
+  }
+}
